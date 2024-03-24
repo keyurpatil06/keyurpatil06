@@ -33,11 +33,6 @@
 
 ###
 ## Github Stats  
-<table>
-	<tr>
-		<td valign="top" width="50%"></td>
-		<td valign="top" width="50%">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyurpatil06&hide_border=true&layout=compact" align="left" style="width: 100%" />
-		</td>
-	</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyurpatil06&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+
