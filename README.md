@@ -30,9 +30,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyurpatil06&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-
